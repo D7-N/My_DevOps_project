@@ -1,0 +1,25 @@
+{
+  "name": "my_devops_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D7-N/My_DevOps_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D7-N/My_DevOps_project/issues"
+  },
+  "homepage": "https://github.com/D7-N/My_DevOps_project#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0",
+    "mocha": "^11.5.0"
+  }
+}
